@@ -15,7 +15,7 @@ setup(
     ],
     extras_require={
         "test": [
-            "pytest==8.3.3",
+            "pytest==9.0.3",
             "pytest-cov==4.1.0",
             "pytest-mock==3.11.1",
             "pytest-asyncio==0.23.6",
